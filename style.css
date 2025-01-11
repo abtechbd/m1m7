@@ -91,6 +91,12 @@ body {
   background: rgb(0, 106, 80);
   padding: 17px 34px 17px 34px;
   border: none;
+
+}
+
+.banner .text button:hover{
+  background-color: red;
+  cursor: pointer;
 }
 
 .section-1 {
