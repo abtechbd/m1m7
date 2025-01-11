@@ -38,6 +38,12 @@ body {
   background: transparent;
 }
 
+.nav-bar button:hover{
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}
+
 /* main section design */
 
 .main-section {
@@ -231,15 +237,18 @@ body {
 .section-2 .content .btn1:hover{
   background-color: #f44336;
   color: white;
+  cursor: pointer;
 }
 
 .section-2 .content .btn2:hover{
   background-color: #020202;
   color: rgb(255, 0, 0);
+  cursor: pointer;
 }
 .section-2 .content .btn3:hover{
   background-color: #f6f6f6;
   color: rgb(0, 0, 0);
+  cursor: pointer;
 }
 
 /* Section-3 Design */
@@ -436,6 +445,7 @@ body {
 .sec-5 .content .text button:hover{
   background-color: white;
   color: red;
+  cursor: pointer;
 }
 
 
